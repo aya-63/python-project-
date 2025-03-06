@@ -86,5 +86,12 @@ The script follows a modular approach, interacting with MySQL through the `mysql
 
 ## 🤝 Contributing
 
-🚀 This project was developed by **Aya Abdelaty, Ereny Abdelmasseh, Romisaa Sameh, and Mariam Yasser**. Feel free to contribute by submitting pull requests or reporting issues!
+🚀 This project was developed by:
+
+- **Aya Abdelaty**
+- **Ereny Abdelmasseh**
+- **Romisaa Sameh**
+- **Mariam Yasser**
+
+Feel free to contribute by submitting pull requests or reporting issues!
 
